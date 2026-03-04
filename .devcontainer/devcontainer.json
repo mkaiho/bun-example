@@ -1,0 +1,16 @@
+{
+  "dockerComposeFile": "../docker-compose.yaml",
+  "service": "workspace",
+  "workspaceFolder": "/work/bun-sample",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "anthropic.claude-code",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "editorconfig.editorconfig",
+        "bradlc.vscode-tailwindcss"
+      ]
+    }
+  }
+}
